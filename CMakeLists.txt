@@ -10,4 +10,5 @@ add_subdirectory(1)
 add_subdirectory(5)
 add_subdirectory(6)
 add_subdirectory(7)
+add_subdirectory(graph)
 
